@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', async function () {
             const videoFrame = document.getElementById('video-frame');
 
             if (videoId === '65334' && seasonNumber === '6' && episodeNumber === '2') {
-                videoFrame.src = "https://goofy-banana.com/e/uf69qbzvyzqf";
+                videoFrame.src = "https://ghbrisk.com/g7kgtnz5sf98";
             } else if (videoId && seasonNumber && episodeNumber) {
                 videoFrame.src = `https://multiembed.mov/directstream.php?video_id=${videoId}&tmdb=1&s=${seasonNumber}&e=${episodeNumber}`;
             } else if (videoId) {
